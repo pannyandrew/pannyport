@@ -14,7 +14,9 @@
   font-family: "Ubuntu", sans-serif;
   float: right;
 }
-
+body {
+  width: 100%;
+}
 #works {
   font-size: 20px;
   font-family: "Ubuntu", sans-serif;
