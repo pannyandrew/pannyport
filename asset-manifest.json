@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pannyport/static/css/main.cf6d20da.chunk.css",
+    "main.css": "/pannyport/static/css/main.9d120cd4.chunk.css",
     "main.js": "/pannyport/static/js/main.e9732cbb.chunk.js",
     "main.js.map": "/pannyport/static/js/main.e9732cbb.chunk.js.map",
     "runtime-main.js": "/pannyport/static/js/runtime-main.96a110d3.js",
@@ -8,15 +8,15 @@
     "static/js/2.2c4c39bf.chunk.js": "/pannyport/static/js/2.2c4c39bf.chunk.js",
     "static/js/2.2c4c39bf.chunk.js.map": "/pannyport/static/js/2.2c4c39bf.chunk.js.map",
     "index.html": "/pannyport/index.html",
-    "precache-manifest.7b88e0cfd5d2948d25defa85269fcce5.js": "/pannyport/precache-manifest.7b88e0cfd5d2948d25defa85269fcce5.js",
+    "precache-manifest.83a3161aeddc77c56fb923407d4a915a.js": "/pannyport/precache-manifest.83a3161aeddc77c56fb923407d4a915a.js",
     "service-worker.js": "/pannyport/service-worker.js",
-    "static/css/main.cf6d20da.chunk.css.map": "/pannyport/static/css/main.cf6d20da.chunk.css.map",
+    "static/css/main.9d120cd4.chunk.css.map": "/pannyport/static/css/main.9d120cd4.chunk.css.map",
     "static/media/glyph-logo_May2016.png": "/pannyport/static/media/glyph-logo_May2016.0e84d592.png"
   },
   "entrypoints": [
     "static/js/runtime-main.96a110d3.js",
     "static/js/2.2c4c39bf.chunk.js",
-    "static/css/main.cf6d20da.chunk.css",
+    "static/css/main.9d120cd4.chunk.css",
     "static/js/main.e9732cbb.chunk.js"
   ]
 }
