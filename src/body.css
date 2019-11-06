@@ -21,3 +21,7 @@ h1 {
 body {
   margin-left: 20px;
 }
+
+#secondBody {
+  margin-top: -20px;
+}
