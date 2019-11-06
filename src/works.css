@@ -1,0 +1,141 @@
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.row {
+  text-align: center;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+h5 {
+  color: black;
+}
+
+#workHeader {
+  color: black;
+  text-align: center;
+  font-size: 60px;
+  font-family: "Raleway", sans-serif;
+  margin-top: -100px;
+}
+
+#workBody {
+  text-align: center;
+}
+
+.row {
+  margin-top: -20px;
+  text-align: center;
+}
+
+.column {
+  font-size: 40px;
+  font-family: "Raleway", sans-serif;
+  border-color: black;
+  text-align: center;
+}
+
+.listOfWorks {
+  font-family: "Raleway", sans-serif;
+  font-size: 40px;
+  margin-top: 30px;
+  margin-right: 120px;
+  margin-left: 120px;
+  margin-bottom: 100px;
+}
+
+#ABT {
+  font-family: "Raleway", sans-serif;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: rgb(254, 179, 174);
+  background: linear-gradient(
+    0deg,
+    rgba(254, 179, 174, 1) 33%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+
+#Jive {
+  font-family: "Raleway", sans-serif;
+  border-left-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-width: 2px;
+  border-color: black;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: rgb(254, 142, 134);
+  background: linear-gradient(
+    0deg,
+    rgba(254, 142, 134, 1) 0%,
+    rgba(254, 179, 174, 1) 100%
+  );
+}
+#Upcoming {
+  font-family: "Raleway", sans-serif;
+  border-left-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-width: 2px;
+  border-color: black;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: rgb(253, 94, 83);
+  background: linear-gradient(
+    0deg,
+    rgba(253, 94, 83, 1) 0%,
+    rgba(254, 142, 134, 1) 100%
+  );
+}
+
+#github {
+  display: inline;
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  margin-right: 60px;
+  margin-top: 45px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  float: right;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  background: white;
+}
+
+#name {
+  display: inline;
+  font-family: "Raleway", sans-serif;
+  font-size: 40px;
+  margin-left: 20px;
+}
+
+#github2 {
+  display: inline;
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  margin-right: 60px;
+  margin-top: 45px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  float: right;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  background: white;
+  color: white;
+}

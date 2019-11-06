@@ -1,0 +1,38 @@
+#contactPart {
+  text-align: center;
+}
+
+#connect {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  color: black;
+}
+
+img {
+  margin: 10px;
+}
+
+#githubIcon {
+  width: 40px;
+  height: 40px;
+}
+
+#linkedin {
+  width: 50px;
+  height: 40px;
+}
+
+#socials {
+  text-align: center;
+  margin-bottom: 100px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+#instagramIcon {
+  margin-left: 0px;
+  width: 40px;
+  height: 40px;
+}

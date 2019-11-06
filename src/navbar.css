@@ -1,0 +1,53 @@
+#navbar {
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 60px;
+}
+
+#logo {
+  font-size: 20px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+#contact {
+  font-size: 20px;
+  font-family: "Ubuntu", sans-serif;
+  float: right;
+}
+
+body {
+  margin-right: -40px;
+}
+#works {
+  font-size: 20px;
+  font-family: "Ubuntu", sans-serif;
+  float: right;
+  display: inline;
+  margin-right: 60px;
+  color: black;
+}
+
+#skills {
+  font-size: 20px;
+  font-family: "Ubuntu", sans-serif;
+  float: right;
+}
+
+li {
+  display: inline;
+  margin-right: 60px;
+}
+
+a:link {
+  text-decoration: none;
+  color: #484848;
+}
+
+a:visited {
+  color: #484848;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fd5e53;
+}
