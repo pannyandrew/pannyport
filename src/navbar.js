@@ -189,9 +189,6 @@ class NavBar extends Component {
           <h1>
             Hello, I'm <h2 id="coloredText">Andrew Pan</h2>, a freshman studying
             <h2 id="coloredText"> Computer Science</h2> at Texas A&M University.
-          </h1>
-
-          <h1 id="secondBody">
             I am currently looking for an <hi id="coloredText">internship!</hi>
           </h1>
         </div>
