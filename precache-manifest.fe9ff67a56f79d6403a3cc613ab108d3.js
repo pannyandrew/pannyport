@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1bc4711eb7ccdd467a86c271d69a9f4b",
+    "revision": "bfdd850f8863be8d8b8ba83b5924917d",
     "url": "/pannyport/index.html"
   },
   {
-    "revision": "2702497d320a07a46b3d",
+    "revision": "b2def60cf03b25eb367c",
     "url": "/pannyport/static/css/main.41c45e25.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pannyport/static/js/2.2c4c39bf.chunk.js"
   },
   {
-    "revision": "2702497d320a07a46b3d",
-    "url": "/pannyport/static/js/main.ed1100b5.chunk.js"
+    "revision": "b2def60cf03b25eb367c",
+    "url": "/pannyport/static/js/main.e9732cbb.chunk.js"
   },
   {
     "revision": "3cd719ebe1608405b5c9",
