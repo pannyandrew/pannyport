@@ -4,14 +4,6 @@
   margin-top: 60px;
 }
 
-body {
-  overflow-x: hidden;
-}
-
-html {
-  overflow-x: hidden;
-}
-
 #logo {
   font-size: 20px;
   font-family: "Ubuntu", sans-serif;
