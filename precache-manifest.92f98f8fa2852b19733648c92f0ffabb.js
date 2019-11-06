@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4fd8ac1ed34db1cafb2ca39f3d7e3f25",
+    "revision": "e6bdde5be941cf39e68cf4d5e0677289",
     "url": "/pannyport/index.html"
   },
   {
-    "revision": "1b328726a6a3d1bb4774",
-    "url": "/pannyport/static/css/main.57412141.chunk.css"
+    "revision": "381959fb34481f2ea7aa",
+    "url": "/pannyport/static/css/main.cf6d20da.chunk.css"
   },
   {
     "revision": "3188c1c3d8cbb3e2d14c",
     "url": "/pannyport/static/js/2.2c4c39bf.chunk.js"
   },
   {
-    "revision": "1b328726a6a3d1bb4774",
-    "url": "/pannyport/static/js/main.e9732cbb.chunk.js"
+    "revision": "381959fb34481f2ea7aa",
+    "url": "/pannyport/static/js/main.22b305d6.chunk.js"
   },
   {
     "revision": "3cd719ebe1608405b5c9",

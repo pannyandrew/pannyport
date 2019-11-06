@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pannyport/static/css/main.57412141.chunk.css",
-    "main.js": "/pannyport/static/js/main.e9732cbb.chunk.js",
-    "main.js.map": "/pannyport/static/js/main.e9732cbb.chunk.js.map",
+    "main.css": "/pannyport/static/css/main.cf6d20da.chunk.css",
+    "main.js": "/pannyport/static/js/main.22b305d6.chunk.js",
+    "main.js.map": "/pannyport/static/js/main.22b305d6.chunk.js.map",
     "runtime-main.js": "/pannyport/static/js/runtime-main.96a110d3.js",
     "runtime-main.js.map": "/pannyport/static/js/runtime-main.96a110d3.js.map",
     "static/js/2.2c4c39bf.chunk.js": "/pannyport/static/js/2.2c4c39bf.chunk.js",
     "static/js/2.2c4c39bf.chunk.js.map": "/pannyport/static/js/2.2c4c39bf.chunk.js.map",
     "index.html": "/pannyport/index.html",
-    "precache-manifest.7ea7f57f11ac9b6518372540e79726c5.js": "/pannyport/precache-manifest.7ea7f57f11ac9b6518372540e79726c5.js",
+    "precache-manifest.92f98f8fa2852b19733648c92f0ffabb.js": "/pannyport/precache-manifest.92f98f8fa2852b19733648c92f0ffabb.js",
     "service-worker.js": "/pannyport/service-worker.js",
-    "static/css/main.57412141.chunk.css.map": "/pannyport/static/css/main.57412141.chunk.css.map",
+    "static/css/main.cf6d20da.chunk.css.map": "/pannyport/static/css/main.cf6d20da.chunk.css.map",
     "static/media/glyph-logo_May2016.png": "/pannyport/static/media/glyph-logo_May2016.0e84d592.png"
   },
   "entrypoints": [
     "static/js/runtime-main.96a110d3.js",
     "static/js/2.2c4c39bf.chunk.js",
-    "static/css/main.57412141.chunk.css",
-    "static/js/main.e9732cbb.chunk.js"
+    "static/css/main.cf6d20da.chunk.css",
+    "static/js/main.22b305d6.chunk.js"
   ]
 }
