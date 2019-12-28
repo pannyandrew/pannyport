@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pannyport/static/css/main.9d120cd4.chunk.css",
-    "main.js": "/pannyport/static/js/main.e9732cbb.chunk.js",
-    "main.js.map": "/pannyport/static/js/main.e9732cbb.chunk.js.map",
-    "runtime-main.js": "/pannyport/static/js/runtime-main.96a110d3.js",
-    "runtime-main.js.map": "/pannyport/static/js/runtime-main.96a110d3.js.map",
-    "static/js/2.2c4c39bf.chunk.js": "/pannyport/static/js/2.2c4c39bf.chunk.js",
-    "static/js/2.2c4c39bf.chunk.js.map": "/pannyport/static/js/2.2c4c39bf.chunk.js.map",
-    "index.html": "/pannyport/index.html",
-    "precache-manifest.83a3161aeddc77c56fb923407d4a915a.js": "/pannyport/precache-manifest.83a3161aeddc77c56fb923407d4a915a.js",
-    "service-worker.js": "/pannyport/service-worker.js",
-    "static/css/main.9d120cd4.chunk.css.map": "/pannyport/static/css/main.9d120cd4.chunk.css.map",
-    "static/media/glyph-logo_May2016.png": "/pannyport/static/media/glyph-logo_May2016.0e84d592.png"
+    "main.css": "andrewpanishandso.me/static/css/main.9d120cd4.chunk.css",
+    "main.js": "andrewpanishandso.me/static/js/main.c2cd15ab.chunk.js",
+    "main.js.map": "andrewpanishandso.me/static/js/main.c2cd15ab.chunk.js.map",
+    "runtime-main.js": "andrewpanishandso.me/static/js/runtime-main.dce6d800.js",
+    "runtime-main.js.map": "andrewpanishandso.me/static/js/runtime-main.dce6d800.js.map",
+    "static/js/2.64489ce3.chunk.js": "andrewpanishandso.me/static/js/2.64489ce3.chunk.js",
+    "static/js/2.64489ce3.chunk.js.map": "andrewpanishandso.me/static/js/2.64489ce3.chunk.js.map",
+    "index.html": "andrewpanishandso.me/index.html",
+    "precache-manifest.c0e3a2fd15e9976e8c77396be0a0e85e.js": "andrewpanishandso.me/precache-manifest.c0e3a2fd15e9976e8c77396be0a0e85e.js",
+    "service-worker.js": "andrewpanishandso.me/service-worker.js",
+    "static/css/main.9d120cd4.chunk.css.map": "andrewpanishandso.me/static/css/main.9d120cd4.chunk.css.map",
+    "static/media/glyph-logo_May2016.png": "andrewpanishandso.me/static/media/glyph-logo_May2016.0e84d592.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.96a110d3.js",
-    "static/js/2.2c4c39bf.chunk.js",
+    "static/js/runtime-main.dce6d800.js",
+    "static/js/2.64489ce3.chunk.js",
     "static/css/main.9d120cd4.chunk.css",
-    "static/js/main.e9732cbb.chunk.js"
+    "static/js/main.c2cd15ab.chunk.js"
   ]
 }
